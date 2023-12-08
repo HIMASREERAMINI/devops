@@ -1,5 +1,0 @@
-software engineering
-agile
-scrum
-aws
-safe
